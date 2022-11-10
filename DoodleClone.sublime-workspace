@@ -1,0 +1,277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Olivia/Documents/SDL/DoodleClone/DoodleClone.sublime-project",
+		"/C/Users/Olivia/Documents/SalienceUNC/INSTRUCTIONS.TXT",
+		"/C/Users/Olivia/Documents/SalienceUNC/SalienceUNC_11xx22.txt",
+		"/C/Users/Olivia/Documents/SalienceUNC/TODO.txt",
+		"/H/Seagate/Registration/SerialNumber.xml",
+		"/D/SalienceUNC_103122/SalienceUNC_103122.txt",
+		"/C/EpilepsyData/ODEN_TYMANI___/Nifti/snapshot_details.txt",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/BulkReportExtractor/DataExtractor.cs",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/BulkReportExtractor/ProgressFrm.Designer.cs",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/SalienceDataExtractor.cs",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/reference functions.txt",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/BulkReportExtractor/ProgressFrm.cs",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/BulkReportExtractor/ReportData.cs",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/BulkReportExtractor/Form1.resx",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/BulkReportExtractor/Form1.cs",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/BulkReportExtractor/Form1.Designer.cs",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/BulkReportExtractor/BulkReportExtractor.csproj",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/.gitignore",
+		"/C/Users/Olivia/Documents/SalienceUNC/.gitignore",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/BulkReportExtractor/BulkReportExtractor.csproj.user",
+		"/C/Searchlight/1. Filter/filter_UNC.sh",
+		"/C/Searchlight/2. Searchlight/hhSphereDriver-with-deoblique-command.txt",
+		"/C/Searchlight/1. Filter/filterAuto_UNC.sh",
+		"/C/Searchlight/4. Zipping/recoverCoordsFromWord.txt",
+		"/C/Searchlight/1. Filter/filter.properties",
+		"/C/Users/Olivia/Documents/SalienceUNC/Salience.Client/Salience.Client.csproj",
+		"/C/Users/Olivia/Documents/Boerwinkle-fMRI-LabToolkit/reference functions",
+		"/D/SalienceUNC/SalienceUNC_11xx22.txt",
+		"/C/Users/Olivia/Documents/SalienceUNC/InstallationFiles/ConfigTemplates/Salience.Client.exe.config",
+		"/C/Users/Olivia/Documents/SalienceUNC/Salience.Client/bin/Debug/Salience.Client.exe.config",
+		"/C/Users/Olivia/Documents/SalienceUNC/SalienceUNC_10xx22.txt",
+		"/C/EpilepsyData/DI_001/patient_info.json",
+		"/C/Users/Olivia/Desktop/deface.py",
+		"/C/EpilepsyData/_CorrectOutputs/New Sequence Test Patient/BG_Leza_ep2d_bold_moco_p2_s8_20221006102501_12.json",
+		"/C/EpilepsyData/ODEN_TYMANI___/Nifti/slices.txt",
+		"/D/SalienceUNC/SalienceUNC_101922.txt",
+		"/C/EpilepsyData/start_process",
+		"/D/SalienceUNC/SalienceUNC_10xx22.txt",
+		"/C/Program Files/XMedCon/readme.txt",
+		"/C/Users/Olivia/OneDrive - University of North Carolina at Chapel Hill/Salience_UNC/SalienceUNC_101422.txt",
+		"/C/Users/Olivia/AppData/Local/Temp/Temp1_xmedcon-0.22.0-win64.zip/README.TXT",
+		"/C/EpilepsyData/start_no_skull",
+		"/C/EpilepsyData/ODEN_TYMANI___/patient_info.json",
+		"/C/Users/Olivia/Documents/SalienceUNC/Salience.Client/bin/Debug/Salience.db",
+		"/C/EpilepsyData/ARREOLA_RACHEL___/Dicom/Arreola_Rachel/Arreola_Rachel_ep2d_bold_rs-fMRI_10.json",
+		"/C/EpilepsyData/LESLEY_DAMIEN___2/patient_info.json",
+		"/C/EpilepsyData/LESLEY_DAMIEN___/patient_info.json",
+		"/C/EpilepsyData/LESLEY_DAMIEN___/Dicom/Lesley_Damien/Lesley_Damien_ep2d_bold_rs-fMRI_6.json",
+		"/C/EpilepsyData/LESLEY_DAMIEN___2/Dicom/Lesley_Damien/Lesley_Damien_ep2d_bold_rs-fMRI_6.json",
+		"/D/Lab Documents/LabComputers.txt",
+		"/C/Users/Olivia/Documents/SalienceUNC/InstallationFiles/Salience.Client.exe.config",
+		"/C/Users/Olivia/Desktop/test/test.txt",
+		"/C/Users/Olivia/Documents/SalienceUNC/Salience.Client/App.config",
+		"/C/Users/Olivia/Documents/SalienceUNC/SalienceUNC_09xx22.txt",
+		"/C/Users/Olivia/MangoTempData/current_session_log.txt",
+		"/C/Program Files/Microsoft Office/root/Office16/Configuration/config.xml",
+		"/C/EpilepsyData/ODEN_TYMANI___/run_melodic_new.sh",
+		"/C/Searchlight/recoverCoordsFromWord.txt",
+		"/C/Searchlight/hhSphereDriver-with-deoblique-command.txt",
+		"/D/Searchlight/1. Filter/filterAuto_UNC.sh",
+		"/C/EpilepsyData/Scripts/FilterAuto/filterAuto_UNC.sh",
+		"/C/EpilepsyData/ODEN_TYMANI___/Nifti/CSF_time-2.txt",
+		"/C/EpilepsyData/ODEN_TYMANI___/Nifti/CSF_time-1.txt",
+		"/C/EpilepsyData/ODEN_TYMANI___/run_loop.sh",
+		"/C/Searchlight/2. Searchlight/hhSpherePicBorder",
+		"/C/EpilepsyData/Scripts/newFilterTesting/getZstatNew.sh",
+		"/C/EpilepsyData/Scripts/newFilterTesting/bashInput.sh",
+		"/C/EpilepsyData/Scripts/Filter2/TC.sh",
+		"/C/EpilepsyData/Scripts/Filter2/OT.sh",
+		"/C/EpilepsyData/Scripts/newFilterTesting/getZstat.sh",
+		"/C/EpilepsyData/ODEN_TYMANI___/chunks.txt",
+		"/C/Users/Olivia/AppData/Local/Temp/Temp1_Rs-fMRI_report_TYMANIODEN.zip/word/document.xml",
+		"/C/EpilepsyData/ODEN_TYMANI___/customXml/item1.xml",
+		"/C/EpilepsyData/Scripts/newFilterTesting/inputTesting.sh",
+		"/C/EpilepsyData/ODEN_TYMANI___/Nifti/coord.1D",
+		"/C/EpilepsyData/ODEN_TYMANI___/searchlight/zipping/recoverCoordsFromWord.txt",
+		"/C/EpilepsyData/Scripts/Filter2/filter.properties",
+		"/C/EpilepsyData/Scripts/Filter2/filter_UNC.sh",
+		"/C/searchlight and zipping/HH SearchLight/zipping/recoverCoordsFromWordAnnotated.txt",
+		"/C/Searchlight/3. Wordtest Report/SearchlightReport.exe.config",
+		"/C/EpilepsyData/ODEN_TYMANI___/searchlight/clickingAround.1D",
+		"/C/EpilepsyData/ODEN_TYMANI___/searchlight/centerCoord.1D",
+		"/C/EpilepsyData/ODEN_TYMANI___/searchlight/OT_StartEnd.txt",
+		"/C/Searchlight/3. Wordtest/WordTest.exe.config",
+		"/C/EpilepsyData/ODEN_TYMANI___/searchlight/hhSpherePicBorder",
+		"/C/searchlight and zipping/SearchLight/hhSpherePicBorder",
+		"/C/searchlight and zipping/SearchLight/HowToMakeThisScriptWork.txt",
+		"/C/EpilepsyData/Searchlight_RF_test/hhSphereDriver-with-deoblique-command.txt",
+		"/C/EpilepsyData/Searchlight_RF_test/start_files/hhSphereDriver-with-deoblique-command.txt",
+		"/C/EpilepsyData/ODEN_TYMANI___/searchlight/hhSphereDriver-with-deoblique-command.txt",
+		"/C/searchlight and zipping/recoverCoordsFromWord 8-15-18.txt",
+		"/C/EpilepsyData/Scripts/Filter2/PL.sh",
+		"/D/Scripts_FULL/Filter/List.txt",
+		"/D/Scripts_FULL/Filter/Couch.txt",
+		"/C/EpilepsyData/Scripts/Filter2/OC.properties",
+		"/C/EpilepsyData/Scripts/Filter2/ss.sh",
+		"/C/EpilepsyData/Scripts/Filter2/email2sam.txt",
+		"/C/EpilepsyData/Scripts/Filter2/filter_2runs.sh",
+		"/C/EpilepsyData/Scripts/Filter2/filter_2runsold.sh",
+		"/C/EpilepsyData/Scripts/Filter2/gc.sh",
+		"/C/EpilepsyData/Searchlight_RF_test/maskCoordsXYZ.1D",
+		"/C/EpilepsyData/Searchlight_RF_test/maskCoordsIJK.1D",
+		"/C/EpilepsyData/Searchlight_RF_test/centerCoord.1D",
+		"/C/EpilepsyData/Searchlight_RF_XYZtest/start_files/hhSphereDriver-with-deoblique-command.txt",
+		"/C/EpilepsyData/Searchlight_RF_XYZtest/zipping/recoverCoordsFromWord.txt",
+		"/C/EpilepsyData/Rosenblatt_SLr/zipping/recoverCoordsFromWord.txt",
+		"/C/EpilepsyData/Searchlight_RF_XYZtest/zipping/coordinates_RF.1D",
+		"/C/EpilepsyData/Searchlight_RF_XYZtest/DICOM_xyz_transformName.1D",
+		"/C/EpilepsyData/Searchlight_RF_test2/hhSphereDriver-with-deoblique-command.txt",
+		"/C/EpilepsyData/Searchlight_RF_test/RF_StartEnd.txt",
+		"/D/ROSENBLATT-FARRELL/SearchLight/maskCoordsK.1D",
+		"/D/ROSENBLATT-FARRELL/SearchLight/iToLoop.1D",
+		"/D/ROSENBLATT-FARRELL/SearchLight/DICOM_xyz_transformName.1D",
+		"/D/ROSENBLATT-FARRELL/SearchLight/maskCoordsIJK.1D",
+		"/D/ROSENBLATT-FARRELL/SearchLight/maskCoordsXYZ.1D",
+		"/D/ROSENBLATT-FARRELL/SearchLight/bandpass.1D",
+		"/C/EpilepsyData/Searchlight_RF_test/X.xmat.1D",
+		"/C/EpilepsyData/Rosenblatt_SLr/maskCoordsIJK.1D",
+		"/C/EpilepsyData/Rosenblatt_SLr/maskCoordsXYZ.1D",
+		"/C/EpilepsyData/Searchlight_RF_test/iToLoop.1D",
+		"/C/EpilepsyData/Searchlight_RF_test/clickingAround.1D",
+		"/C/searchlight and zipping/Rosenblatt searchlight folder/hhSphereDriver-with-deoblique-command.txt",
+		"/C/EpilepsyData/Rosenblatt_SearchLight_full/iToLoop.1D",
+		"/C/searchlight and zipping/HH SearchLight/zipping/recoverCoordsFromWord.txt",
+		"/C/EpilepsyData/Rosenblatt_SLr/RL_StartEnd.txt",
+		"/C/EpilepsyData/Rosenblatt_SearchLight_full/RF_StartEnd.txt",
+		"/C/EpilepsyData/Rosenblatt_SearchLight_full/centerCoord.1D",
+		"/C/EpilepsyData/Rosenblatt_SearchLight_full/clickingAround.1D"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"zstat",
+			"dicomIndex",
+			"DICOM_xyz_transformName.1D",
+			"func",
+			"DICOM_xyz_transformName.1D",
+			"IJK.1D",
+			"[1,2,3,4,5,6,7,8,9,a,b,c,d,e,f]",
+			" ",
+			"_",
+			"_\\",
+			"_",
+			"ARREOLA_RACHEL___",
+			"echo",
+			"skull"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
