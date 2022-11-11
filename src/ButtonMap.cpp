@@ -1,0 +1,12 @@
+#include <SDL2/SDL.h>
+#include "ButtonMap.hpp"
+
+ButtonMap::ButtonMap()
+{
+	UP = SDL_SCANCODE_W;
+	DOWN = SDL_SCANCODE_S;
+	LEFT = SDL_SCANCODE_A;
+	RIGHT = SDL_SCANCODE_D;
+	ESC = SDL_SCANCODE_ESCAPE;
+	RETURN = SDL_SCANCODE_RETURN;
+}
