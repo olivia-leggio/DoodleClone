@@ -1,9 +1,11 @@
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
 #include <iostream>
+#include <vector>
 
 #include "RenderWindow.hpp"
 #include "ButtonMap.hpp"
+#include "Entity.hpp"
 
 enum GAME_STATES {MENU, PLAYING, PAUSED};
 enum CHAR_STATES {GROUNDED, JUMPING, FALLING, DEAD};
@@ -38,6 +40,12 @@ int main(int argc, char* args[])
 	CHAR_STATES charState = GROUNDED;
 	ButtonMap button;
 	bool shooting = false;
+	
+	SDL_Texture* playerTexture = window.loadTexture("res/images/simpleguy.png");
+	SDL_Texture* platformTexture = window.loadTexture("res/images/platform.png");
+
+	Entity player(100, 100, playerTexture);
+	std::vector<Entity> entities = {player};
 
 	while (gameRunning)
 	{
@@ -90,7 +98,20 @@ int main(int argc, char* args[])
 					std::cout << "left click at point " << event.button.x << ", " << event.button.y << std::endl;
 				}
 			}
+
+			//window becomes unfocused
+			if (event.type == SDL_WINDOWEVENT)
+			{
+				if (event.window.event == SDL_WINDOWEVENT_FOCUS_LOST)
+				{
+					std::cout << "window focus lost :(" << std::endl;
+					gameState = PAUSED;
+				}
+			}
 		}
+		window.clear();
+		window.render(entities);
+		window.display();
 
 		//update game state
 		if(shooting)
